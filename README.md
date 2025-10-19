@@ -107,6 +107,3 @@ Simulated backend action triggered: Order saved!
 
 ---
 
-
-
-Do you want me to do that next?
