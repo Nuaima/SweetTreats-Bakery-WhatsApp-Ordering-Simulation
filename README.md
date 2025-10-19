@@ -100,9 +100,6 @@ Simulated backend action triggered: Order saved!
 * No external libraries required
 
 ---
-
-## Future Improvements
-
 * Add pricing and calculate total cost for orders
 * Integrate with Google Sheets or a real backend for order storage
 * Add menu display with available items and emojis
